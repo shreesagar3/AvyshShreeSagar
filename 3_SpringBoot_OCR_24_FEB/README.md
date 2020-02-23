@@ -7,8 +7,9 @@
 > 
 > tessdata folder is also uploaded in github in same folder with currently english language support
 
-After running the project, go to localhost:8080/ocr
-Choose POST request
-Then choose form data in Body and choose the file to upload
+### After running the project, go to localhost:8080/ocr
+### Choose POST request
+### Then choose form data in Body and choose the file to upload
 
 Picture for reference:
+![Image](ocr.png)
